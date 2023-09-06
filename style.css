@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background: #152A3B;
+}
+
+.game-body{
+    text-align: center;
+    height: 500px;
+    margin-top: 150px;
+    max-width: 1200px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    background: #ac0003;
+    color: azure;
+    box-shadow: 0px 0px 20px 2px #a002059a;
+}
+
+.body2{
+    margin-top: 200px;
+}
+
+.game-head{
+    margin-bottom: 4px;
+}
+
+.body2 p{
+    margin-bottom: 4px;
+}
+
+#game-input{
+    margin-bottom: 5px;
+}
